@@ -103,7 +103,7 @@ Computer Engineering Student
 
 Full Stack Developer
 
-GitHub: https://github.com/katariyajignesh266
+live demo : https://katariyajignesh266.github.io/Brew-Haven-Coffee-Shop/
 
 ---
 
